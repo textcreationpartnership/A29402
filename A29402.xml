@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the designs which the papists have had against the Earl of Shaftsbury, occasioned by his commitment, July 2, 1681</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29402</idno>
+            <idno type="STC">Wing B4504</idno>
+            <idno type="STC">ESTC R31278</idno>
+            <idno type="EEBO-CITATION">11872574</idno>
+            <idno type="OCLC">ocm 11872574</idno>
+            <idno type="VID">50153</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50153)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 997:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the designs which the papists have had against the Earl of Shaftsbury, occasioned by his commitment, July 2, 1681</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Anti-Catholicism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:50153:1"/>
+            <pb n="1" facs="tcp:50153:1" rendition="simple:additions"/>
+            <head>A Brief Account of the Deſigns which the Papiſts have had againſt the Earl of <hi>Shaftsbury,</hi> occaſioned by his com<g ref="char:EOLhyphen"/>mitment, <hi>July 2. 1681.</hi>
+            </head>
+            <p>THo' the apprehending of the Right Honourable the Earl of <hi>Shaftſ<g ref="char:EOLhyphen"/>bury</hi> hath filled the Town and Countrey with talk and noiſe, yet it neither frightens nor diſcourageth any true <hi>Proteſtant</hi> or good <hi>Engliſhman:</hi> For as they have their innocency to ſupport them under the troubles which the perjuries of needy and ſuborned Villains may bring upon them, ſo they noways doubt but to unravel all this <hi>Sham-Intrigue,</hi> and trace it through all its ſteps and windings to the fountain and original of it. And as this honourable perſon is more loyal than to conſpire againſt the Life of the King, or the Peace of the Government; ſo were he a perſon traiterouſly inclined, yet he is wiſer than to communicate a deſign of levying War for the depoſing or deſtroying his Prince, to ſuch baſe and mercinary Raſcals as are ſaid to have witneſſed againſt him. For his folly would have equald his wickedneſs, ſhould he, under a pretence of preſerving the Pro<g ref="char:EOLhyphen"/>teſtant Religion and Intereſt, have entered into ſo hazardous and black a conſpira<g ref="char:EOLhyphen"/>cy, not only with beggerly Fellows, but with <hi>Iriſh</hi> men and <hi>Papiſts.</hi> And tho' no man can think himſelf ſafe ſhould the Teſtimony of ſuch Varlets be allowed, who will, for money, ſwear any thing they are prompted unto; yet there is not ſo much as one perſon that will either abſcond or withdraw: But all do rather under the ſatisfaction and comfort which they have in their own innocency, chuſe to periſh by the malignity of falſe Tongues, than derive an aſperſion upon their integrity, either through flight, or the concealment of themſelves for a ſeaſon. And for this honourable Gentleman that is firſt ſingled out for the Papiſts to glut and exemplifie their malice and rage upon, the whole tenor and univerſal con<g ref="char:EOLhyphen"/>duct of his life have ſpoken him, not only a perſon of the greateſt abilities and wiſdom, but of the higheſt loyalty to His Majeſty, and warmeſt zeal for his ſer<g ref="char:EOLhyphen"/>vice, that any theſe Three Kingdoms have produced in this Age. Nor is there a Nobleman or Gentleman within the King's Dominions, to whoſe influence His Majeſty doth more owe his peaceable and happy Reſtoration, and the ſuccesful adminiſtration of His affairs for many years together, than to this wiſe and noble Peer. And as the King can never forget the many great and memorable ſervices which this Gentleman did him, when few had either courage, loyalty or pru<g ref="char:EOLhyphen"/>dence to render them uſeful to his intereſt; ſo whenſoever His Majeſty comes impartially to examine the Counſels and Tranſactions for which he hath of late years undergone ſo much obloquie, and ſtood expoſed to ſo many perſonal dan<g ref="char:EOLhyphen"/>gers and hazards, he will find them all directly calculated for, and lying in a direct ſubſerviency to the preſervation of His Perſon, Crown and Dignity, and the promoting the glory of His Reign.</p>
+            <p>Nor can it be ſuppoſed that one poſſeſſing that room in the favour and eſteem of His Prince, which my Lord <hi>Shaftsbury</hi> did, and truſted with ſo ſupream a manage of His Royal concernment as he was, would have withdrawn himſelf from medling in the affairs of His Soveraign, or run into a miſunderſtanding with any at Court, but that he could not concur in deſigns which he conceived tended to the ruine of theſe Kingdoms, and the endangering the Monarchy, as well as to the ſubverſion of the Proteſtant Religion both here and elſewhere. His faithful and unwearied cares and endeavours to obviate the formidable growth of <hi>France,</hi> and to prevent the reeſtabliſhment of <hi>Popery</hi> in theſe Nations, and thereby the enſlaving them again to <hi>Rome,</hi> may be thought the occaſion of all the ſlanders which have been caſt upon him, and the only true ſource of all the troubles he hath either conflicted with, or ſtood obnoxious unto. And by how much he hath been eminently inſtrumental to detect and defeat the many miſchievous contri<g ref="char:EOLhyphen"/>vances and deſigns of a <hi>French</hi> and Popiſh Party and Faction, by ſo much are all
+<pb n="2" facs="tcp:50153:2"/>the Friends and Abetters of Arbitrarineſs and Popery at home, or ſuch who have ſold themſelves for forraign Penſions to advance the Grandeur of <hi>France,</hi> and to contribute to the ſucceſs of their conqueſts abroad, become his implacable and profeſſed enemies.</p>
+            <p>And more particularly, That which gave a new ferment to Popiſh rage, and enflam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d their indignation againſt this Noble Peer, was his early diſcovery and re<g ref="char:EOLhyphen"/>ſentment of the <hi>Duke</hi> of <hi>York</hi>'s being reconciled to <hi>Rome,</hi> and his having joynd himſelf in a cloſe correſpondency with the <hi>French</hi> King and his Miniſters. For tho' theſe things are ſince the publiſhing of <hi>Coleman</hi>'s Letters become obvious to all the world; yet this great and ſagacious Miniſter had gotten view of, and pe<g ref="char:EOLhyphen"/>netrated into them long before. And the <hi>ſenſations</hi> as well as proſpect which he thereupon had and declared of what would thence enſue to the danger of His Majeſties perſon, the diſturbance of his Government, and the ruine of his King<g ref="char:EOLhyphen"/>doms and the Proteſtant Religion, which he is ſworn to protect and defend, may be eaſily conjectured by the <hi>alarm</hi> which the whole Popiſh party immediately took, and by the bloody machinations which they entred into and cheriſhed a<g ref="char:EOLhyphen"/>gainſt him. And therefore even while he was <hi>Chancellor,</hi> and ſtood clothed with the ſupreameſt Authority that a Subject is capable of under His Majeſty, he not only apprehended, but upon the beſt intelligence found himſelf in that dan<g ref="char:EOLhyphen"/>ger from the Papiſts, that he expected every night to have his Throat cut, and accordingly kept a conſtant Watch in his Houſe to prevent his being murdered and aſſaſſinated. And when they found that the taking the Seals from him (which there is reaſon to believe proceeded from Popiſh Counſels, tho' he had attain'd unto them upon as great merit, uſed them with as great juſtice, and parted with them with as great honour as ever any did) could neither find am<g ref="char:EOLhyphen"/>bition nor convetouſneſs in him to impreſs and work upon, ſo as to bring him to their Lure: They accoſted him with ſuch tenders of greatneſs, honour and wealth, as few Subjects would have had the humility, uprightneſs and ſelf-de<g ref="char:EOLhyphen"/>nyal to refuſe: But to their ſhame and his glory, they found him of a nobler complexion, and a more generous and upright mind, than to abandon his princi<g ref="char:EOLhyphen"/>ples of duty to the King, and faithfulneſs to his Countrey, for Riches, Honour and Power, though in conjunction with the favour of more than one Potentate. And therefore finding him above theſe low and pitiful temptations, and that he deſpiſed what others to the loſs of their credit, and hazard of their Souls court and purſue; there was another method thought of, and a reſolution taken by ſome great men to impeach him of Treaſon. And as <hi>Collonel Conqueſt</hi> in purſu<g ref="char:EOLhyphen"/>ance of this determination, undertook to be his Accuſer, ſo all Offices wherein his <hi>Lordſhip</hi> had been concernd, were narrowly inſpected and enquired into to find juſt matter for a charge. And as they greatly reckond upon the <hi>Houſe</hi> of <hi>Commons</hi> which then was, as concelving it admirably moulded for their buſineſs, and entirely diſpoſed to have gratified them in ſuch a deſign, rather than many of them to have forfeited their Penſions at the end of the Seſſions, they collected a great maſs and number of particulars, which miſinformation, ſurpriſe, or ſhortneſs of underſtanding might have betrayed the beſt and wiſeſt of men into. But the Kings Learned Council at Law, having ſeriouſly examined the ſeveral matters which were prepared in order to a charge againſt him, and preferring their Maſters Honour, and the Peace of their own Conſciences, before the obli<g ref="char:EOLhyphen"/>ging a few angry and intereſted men, they declared that all which with ſo much induſtry was collected and produced, was inſufficient to the purpoſe to which the malice and revenge of ſome had deſigned it. And hereby miſcarrying in their attempts upon the Life of this great and excellent perſon, they thereupon change the <hi>Scheme</hi> of their deſigns, and lay a Plot for the blaſting his reputation and honour. And conceiving the <hi>Eccleſiaſticks</hi> in a more implicite obedience to them, and that they have leſs honour to loſe than others, they muſter up, as much as they could, the whole <hi>poſſe</hi> of the <hi>Clergy</hi> to reproach and defame him. And as if it had been of more conſequence to ſink and eclipſe the credit of this <hi>Peer,</hi> than to gain or convert Souls to God, the Pulpits inſtead of commending <hi>Jeſus Chriſt</hi> to the Conſciences of men, were employed through all parts of the Nati<g ref="char:EOLhyphen"/>on in blaſting the Earl of <hi>Shaftsbury:</hi> And when none other could be found ſuf<g ref="char:EOLhyphen"/>ficiently
+<pb n="3" facs="tcp:50153:2" rendition="simple:additions"/>qualified to revile and aſperſe this poor Gentleman, <hi>Needham,</hi> whoſe Pen had been employed near Twenty years to defame His Majeſty and his Fa<g ref="char:EOLhyphen"/>ther, was hired to Write falſe and ſcandalous Books againſt him: As if there had needed no more to beſpatter this innocent perſon, but for that mercinary Scrib<g ref="char:EOLhyphen"/>ler to gather up the dirt which he had thrown upon Two Kings, and to caſt it at him. Nor could he want impudence to brand his fellow Subject, who had accuſtomed himſelf ſo long in reviling his natural Princes. But all this not an<g ref="char:EOLhyphen"/>ſwering the ends which were expected from it, namely, the leſſening him in the love and eſteem of Loyal and True Proteſtants, an advantage is embraced of ſending him to the <hi>Tower,</hi> upon pretence of a crime which all unbiaſſed men thought the freedom of Speech, which is an eſſential priviledg of every Mem<g ref="char:EOLhyphen"/>ber of both Houſes had acquitted and juſtified him from.</p>
+            <p>And as this conduced nothing to make this free Generous and great minded Perſon to crouch and ſtoop to the exorbitant pleaſure of thoſe he judged Enemies to the happineſs of his Majeſty and the Kingdom, ſo the Houſe of Lords themſelves, by whom he was committed in <hi>Feb.</hi> 1678, Have ſince the Earl of <hi>Danbies</hi> coming under an Impeachment, through a ſenſe of the in<g ref="char:EOLhyphen"/>juſtice and wrong which was done to this Lord and ſeveral other Peers, made an Order to Damn with an abhorrence that whole procedence. But finding that this one mans wiſdom and diligence was ſo fatal and pernicious to all their Deſigns, and that many of them had been rendred abortive, and others made to redound upon themſelves through his Intelligince, Care and Activity; the Papal Party have united all the Fraud and Policy which are among them, to the cruelty and rage which naturally acts men of their Religion, againſt ſin<g ref="char:EOLhyphen"/>cere and hearty Proteſtant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and all for the deſtroying this honourable Perſon, and ſo far as we yet know, till we find the contrary proved upon a fair Tryal, a moſt Loyal Subject to his Majeſty, as well as an uſeful Inſtrument towards the preſervation of our Religion, Laws and Liberties. And for the compaſſing what they earneſtly long for, they have, ſince the diſcovery of the Popiſh Plot, and the apprehenſion of his zeal in purſuing thoſe that are criminals, entertained many Deſigns, and treated with ſeveral perſons for the killing of him. And beſides the many Evidences that we have of this from the Teſtimonies of <hi>Franciſco de Faria,</hi> and divers others of the Kings Evidence, <hi>Dangerfield,</hi> not only tells us of a deſign carried on by my Lady <hi>Powis</hi> to have him ſtab'd, and that ſeveral were contracted with about it; but that two or three upon her importunity, and the encouragement of a reward undertook it. And <hi>Prance</hi> aſſures us, that no fewer than ſix, viz. <hi>Adamſon, Proſer, Matteſon, Brad<g ref="char:EOLhyphen"/>ſhaw, Stawley,</hi> and <hi>Meſſeger,</hi> furniſhed themſelves with Arms in order thereunto, and ſwore to accompliſh it. But the holy and watchful providence of God, with the ſubſervient Miniſtration of himſelf and thoſe about him, having prevented them in all thoſe deſperate and malicious deſigns; they again ſhift their me<g ref="char:EOLhyphen"/>thods and bethink themſelves of a new way whereby to ruine him under the countenance of the Law which is thought to be the protection of the Inno<g ref="char:EOLhyphen"/>cent. Accordingly he was one of the firſt that was to be involved under the guilt of Mrs. <hi>Celliers,</hi> and Mr. <hi>Dangerfields</hi> Plot, which is commonly called the <hi>Meal-Tub Plot.</hi> And this being a more likely way to deſtroy him, than that of violence and force, ſeeing neither his own watchfulneſs, nor the attendance and aſſiſtance of his Servants can ſecure him againſt the falſe depoſition of an indi<g ref="char:EOLhyphen"/>gent mercenray &amp; perjur'd Raſcal: there is ſome reaſon to believe that the pre<g ref="char:EOLhyphen"/>ſent accuſation upon which he ſtands committed to the Tower, is upon the ſubornation of the Papiſts, and as full of falſehood as malice. And tho' we will not ſuſpect the Juſtice or honour of the <hi>Board;</hi> nor affirm that his Ma<g ref="char:EOLhyphen"/>jeſty and the Council could do otherwiſe than they have done, ſeeing we are to ſuppoſe them ignorant of the Arts by which theſe fellows may have been prevaild upon to ſwear againſt this noble Peer; yet foraſmuch as we are to believe every man Innocent till he be found and proved Guilty, we crave li<g ref="char:EOLhyphen"/>berty to ſay, that we cannot think this Earl ſo Criminal as he is reported to be. For of all thoſe that have opportunity to converſe with him; there are none but thoſe few Fellows, who beſides their being Iriſh-men, are alſo Papiſts, that pre<g ref="char:EOLhyphen"/>tend
+<pb n="4" facs="tcp:50153:3"/>the having any thing to charge him with. And as it is not to be conceived, but that he ſhould uſe as much freedom with Engliſh-men, eſpecially with ſuch as are of Quality, as with thoſe beggarly Raſcals; ſo it is an Infamy which his Majeſty's good and Loyal Proteſtant Engliſh Subjects will not know how to digeſt; that they ſhould be thought to conceal a Treaſon againſt their prince, when Iriſh Papiſts, and ſuch as by their own confeſſion have been in Plots a<g ref="char:EOLhyphen"/>gainſt the Government; ſhould have that fealty for his Majeſty as to detect it. Some of thoſe that are ſaid to have depoſed againſt this noble Lord, ſtand alrea<g ref="char:EOLhyphen"/>dy Indicted for Subornation; and whether to attone for being charged with ſub<g ref="char:EOLhyphen"/>orning on one ſide, they will really perjure themſelves on the other, muſt be left to time to reveal. Others have acknowledged that they are hired to ſwear what they have done, and whether the credit of ſuch men can ſupport ſuch a charge againſt a Peer of England, as the Earl of <hi>Shaftsbury</hi> is committed for, I leave every rational and ſober man to judge. But it is not fit at preſent to re<g ref="char:EOLhyphen"/>preſent all thoſe things concerning the Witneſſes, which we eaſily might, for that is to be reſerved till his Lordſhip comes to his Tryal; When it is poſſible ſuch matters will be detected, as will fill the minds of all men with Aſtoniſh<g ref="char:EOLhyphen"/>ment, and make the Authours and Abetters of theſe ſhams and ſubornations, the objects of his Majeſtys juſt and ſevere indignation. However it is with great a<g ref="char:EOLhyphen"/>maſement that we hear of a Peer's being ſent to the Tower for Treaſon, with<g ref="char:EOLhyphen"/>out being allowed to have the Witneſſes that ſwore againſt him, confronted with him and examined <hi>ore tenus.</hi> And why this ſhould be denied a Nobleman, and a Proteſtant, when it was granted to the Papiſts of the meaneſt rank, I do not know, but I am ſure it heightens the ſurpriſe. And whether the ſending Letters up and down from unknown hands, and without names, to honeſt &amp; Loyal perſons, to lay aſide their Papers, be not ſome argument, that all this againſt my Lord <hi>Shaftsbury</hi> is a meer Popiſh Intreague, and that they ſeek to promote the belief of a Presbyterian-Plot by little arts and tricks, I ſhall leave men to think as they ſee cauſe, and only ſubjoyn the Copy of one of the Letters. Nor will I either comment upon it at this time, nor perſue the thread of this diſcourſe in rela<g ref="char:EOLhyphen"/>tion to the Impriſonment of this great and noble Peer any longer, hoping to have another occaſion, when this whole matter ſtands in a clearer light to de<g ref="char:EOLhyphen"/>duce it as it ought, and make theſe remarks upon it, which the Service of his Majeſty and my Country do require. Only it may not be unworthy of our obſervation, that none of all their Lordſhips at the Council-Board had the con<g ref="char:EOLhyphen"/>fidence to ſay, that they believed the truth of the Depoſitions, when my Lord of <hi>Shaftsbury</hi> appealed unto them in that particular, and askt whether they judged him ſo void of prudence as to treat with ſuch perſons about matters of ſo dangerous concernment?</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Mr. Gibbs,</salute>
+                  </opener>
+                  <p>
+                     <hi>MY Lord</hi> Shaftsbury <hi>being juſt now committed to the Tower, and Sir</hi> Tho. Play<g ref="char:EOLhyphen"/>er <hi>under Examination before the King and Council, and ſeveral Warrants out againſt ſeveral of our deareſt Friends, and now all like to be diſcovered; I was deſi<g ref="char:EOLhyphen"/>red by his Lordſhip to give warning to his Friends; And particularly thoſe in</hi> Wapping <hi>to ſecure all papers and things,</hi> &amp;c. <hi>of which I deſire you to give notice to ſo many as you can think, that they nor you may be ſurpriſed, being in more haſt than ordinary, have only time to ſubſcribe my ſelf,</hi>
+                  </p>
+                  <closer>
+                     <signed>Yours in all Secreſy. <hi>J. T.</hi>
+                     </signed>
+                     <dateline>Whitehal <date>
+                           <hi>July</hi> 2d. 1681.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>Your Name is in the Liſt with others of your Neighbours.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>R. Baldwin.</hi> 1681.</p>
+            <pb facs="tcp:50153:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
